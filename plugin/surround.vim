@@ -580,6 +580,7 @@ if !exists("g:surround_no_mappings") || ! g:surround_no_mappings
   nmap cs  <Plug>Csurround
   nmap cS  <Plug>CSurround
   nmap ys  <Plug>Ysurroundiw
+  nmap Ys  <Plug>Ysurround
   nmap yS  <Plug>YSurround
   nmap yss <Plug>Yssurround
   nmap ySs <Plug>YSsurround
